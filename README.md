@@ -5,13 +5,11 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
-- 🔭 Je travaille actuellement sur **[Nom du Projet]**
-- 🌱 J’apprends actuellement **[Technologie ou domaine]**
-- 👯 Je cherche à collaborer sur **des projets open-source impactants**
-- 💬 Posez-moi des questions sur **C, Linux, Réseaux, ou DevOps**
-- 📫 Contactez-moi : **[votre.email@example.com]**
+- 🔭 Je travaille actuellement sur **[Minishell]**
+- 🌱 J’apprends actuellement le **[C]**
+- 📫 Contactez-moi : **[valentinledur@example.com]**
 - ⚡ Fun fact : *Je peux coder plus vite que mon ombre*
-
+- Discord : @furia25
 ---
 
 ## 🛠️ Compétences principales
@@ -20,7 +18,6 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -52,15 +49,6 @@
 
 ---
 
-## 🤝 Connecte-toi avec moi
-
-<p align="left">
-  <a href="https://linkedin.com/in/VOTRE-LINKEDIN" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://github.com/VOTRE_USERNAME" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="github" />
-  </a>
 </p>
 
 ---

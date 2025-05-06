@@ -42,13 +42,6 @@
 ## 📸 Galerie de projets
 
 > Voici quelques projets récents avec un petit aperçu visuel :
-
-### 🕹️ Moteur 3D en C
-![moteur3D](https://user-images.githubusercontent.com/00000000/00000000-00000000-0000-0000-000000000000.gif)
-
-### 🔧 Déploiement Docker + Nginx
-![nginx-setup](https://user-images.githubusercontent.com/00000000/00000000-00000000-0000-0000-000000000000.png)
-
 ---
 
 </p>

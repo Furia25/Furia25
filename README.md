@@ -1,4 +1,6 @@
-<h1 align="center">Hey 👋, I'm Furia25</h1>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/d340a5ef-25a4-4f50-8420-294f27c083c1" style="width:400px;height:100px"/>
+</p>
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/dd07a020-899b-4810-b207-492ba37a39ab" style="width:1000px;height:150px"/>

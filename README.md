@@ -38,4 +38,12 @@
 
 ---
 
-<img src="https://github.com/Furia25/Furia25/blob/c6f27a4afa6b180e03f6a17501471e967d246766/text.svg">
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/0c33f268-ff44-46d8-bc70-72bde0ffdd72"/>
+</p>
+
+
+
+
+
+

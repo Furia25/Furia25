@@ -1,7 +1,5 @@
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/6493c0b1-6d75-4d3a-a4e2-39772b1e39c7" style="width:400px;height:80px"/>
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/dd07a020-899b-4810-b207-492ba37a39ab" style="width:1000px;height:150px"/>
+   <img src="https://github.com/user-attachments/assets/53721df9-590d-4283-8e59-8840d41b815e" style="width:1000px;height:150px"/>
 </p>
 
 &nbsp;
@@ -26,10 +24,10 @@
    <img src="https://github.com/user-attachments/assets/f9d451ff-9243-4eef-a2c3-8c3444007e8e" style="width:400px;height:110px"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---

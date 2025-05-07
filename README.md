@@ -6,12 +6,14 @@
    <img src="https://github.com/user-attachments/assets/dd07a020-899b-4810-b207-492ba37a39ab" style="width:1000px;height:150px"/>
 </p>
 
-- 🔭 Je travaille actuellement sur **[Minishell]**
-- 🌱 J’apprends actuellement le **[C]**
-- 📫 Contactez-moi : **[valentinledur@example.com]**
-- ⚡ Fun fact : *Je peux coder plus vite que mon ombre*
-- Discord : @furia25
----
+<h2 align="center">🚀 About Me</h2>
+<p align="center">
+  <strong>🔭 Student at <a href="https://42lyon.fr">42 Lyon Auvergne-Rhône-Alpes</a></strong><br><br>
+  <strong>🌱 Currently learning:</strong> <code>C Language</code><br><br>
+  <strong>📫 Contact:</strong> <a href="mailto:valentinledur@example.com">valentinledur@example.com</a><br><br>
+  <strong>⚡ Fun fact:</strong> <em>I can code faster than my shadow</em><br><br>
+  <strong>💬 Discord:</strong> <code>@furia25</code>
+</p>
 
 ## 🛠️ Compétences principales
 

@@ -12,7 +12,7 @@
   <strong>🔭 Student at <a href="https://42lyon.fr">42 Lyon Auvergne-Rhône-Alpes</a></strong><br><br>
   <strong>🌱 Currently learning:</strong> <code>C Language</code><br><br>
   <strong>📫 Contact:</strong> <a href="mailto:valentinledur@example.com">valentinledur@gmail.com</a><br><br>
-  <strong>⚡ Fun fact:</strong> <em>I can code faster than my mother</em><br><br>
+  <strong>⚡ Fun fact:</strong> <em>I can code faster than my mama</em><br><br>
   <strong>💬 Discord:</strong> <code>@furia25</code>
 </p>
 
@@ -23,14 +23,27 @@
 <p align="center">
    <img src="https://github.com/user-attachments/assets/f9d451ff-9243-4eef-a2c3-8c3444007e8e" style="width:400px;height:110px"/>
 </p>
+<h3 align="center">💻 Programming Languages</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/GML-71C837?style=for-the-badge&logo=gamemaker&logoColor=black" alt="GML" />
+</p>
+
+<h3 align="center">🧰 Tools & Operating Systems</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📈 Statistiques GitHub
+&nbsp;
+&nbsp;
+&nbsp;
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Furia25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />

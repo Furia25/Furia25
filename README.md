@@ -1,10 +1,13 @@
 ### README EN PRODUCTION
 
+![img]()
+
 <h1 align="center">Salut 👋, je suis Furia25</h1>
 <h3 align="center">Un passionné</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<p align="cen!
+ter">
+  <img src="https://github.com/user-attachments/assets/dac4e973-c27c-402d-aa22-37c65ca353aa" width="1500"/>
 </p>
 
 - 🔭 Je travaille actuellement sur **[Minishell]**

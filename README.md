@@ -1,12 +1,15 @@
 <p align="center">
    <img src="https://github.com/user-attachments/assets/6493c0b1-6d75-4d3a-a4e2-39772b1e39c7" style="width:400px;height:80px"/>
-</p>
-
 <p align="center">
    <img src="https://github.com/user-attachments/assets/dd07a020-899b-4810-b207-492ba37a39ab" style="width:1000px;height:150px"/>
 </p>
 
-<h2 align="center">🚀 About Me</h2>
+&nbsp;
+&nbsp;
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/b0b1e8dc-fbb8-443f-840f-9b8d6ec674b1" style="width:400px;height:110px"/>
+</p>
 <p align="center">
   <strong>🔭 Student at <a href="https://42lyon.fr">42 Lyon Auvergne-Rhône-Alpes</a></strong><br><br>
   <strong>🌱 Currently learning:</strong> <code>C Language</code><br><br>

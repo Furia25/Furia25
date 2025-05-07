@@ -40,4 +40,4 @@
 
 ---
 
-<img src="https://potherca-blog.github.io/StackOverflow/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg">
+<img src="https://github.com/Furia25/Furia25/blob/c6f27a4afa6b180e03f6a17501471e967d246766/text.svg">

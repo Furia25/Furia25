@@ -3,7 +3,9 @@
 <h1 align="center">Salut 👋, je suis Furia25</h1>
 <h3 align="center">Un passionné</h3>
 
-<img src="https://i.imgur.com/pZk29NH.gif" width="1500"/>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/dd07a020-899b-4810-b207-492ba37a39ab" style="width:1000px;height:150px"/>
+</p>
 
 - 🔭 Je travaille actuellement sur **[Minishell]**
 - 🌱 J’apprends actuellement le **[C]**

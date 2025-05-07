@@ -24,16 +24,24 @@
 
 ## 📈 Statistiques GitHub
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Furia25&show_icons=true&theme=github_dark_dimmed" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Furia25&theme=material-palenight" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Furia25&theme=github_dark_dimmed" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furia25&layout=compact&theme=github_dark_dimmed" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furia25&layout=compact&theme=holi" alt="langs" />
 </p>
 
 ---

@@ -24,24 +24,16 @@
 
 ## 📈 Statistiques GitHub
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Furia25&theme=material-palenight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Furia25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furia25&layout=compact&theme=holi" alt="langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Furia25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furia25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---

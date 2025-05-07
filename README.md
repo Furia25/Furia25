@@ -12,7 +12,7 @@
   <strong>🔭 Student at <a href="https://42lyon.fr">42 Lyon Auvergne-Rhône-Alpes</a></strong><br><br>
   <strong>🌱 Currently learning:</strong> <code>C Language</code><br><br>
   <strong>📫 Contact:</strong> <a href="mailto:valentinledur@example.com">valentinledur@example.com</a><br><br>
-  <strong>⚡ Fun fact:</strong> <em>I can code faster than my shadow</em><br><br>
+  <strong>⚡ Fun fact:</strong> <em>I can code faster than my mother/em><br><br>
   <strong>💬 Discord:</strong> <code>@furia25</code>
 </p>
 

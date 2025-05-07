@@ -34,10 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furia25&layout=compact&theme=radical" alt="langs" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+GitHub!;Toujours+curieux,+toujours+en+train+d'apprendre...&center=true&height=50" />
-</p>
-
 ---
 
 <img src="https://github.com/Furia25/Furia25/blob/c6f27a4afa6b180e03f6a17501471e967d246766/text.svg">

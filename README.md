@@ -38,7 +38,7 @@
 </p>
 
 ---
-
+![plot](./title.svg)
 ## 📸 Galerie de projets
 
 > Voici quelques projets récents avec un petit aperçu visuel :
@@ -49,5 +49,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+GitHub!;Toujours+curieux,+toujours+en+train+d'apprendre...&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+GitHub!;Toujours+curieux,+toujours+en+train+d'apprendre...&center=true&height=50" />
 </p>

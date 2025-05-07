@@ -1,7 +1,4 @@
-### README EN PRODUCTION
-
-<h1 align="center">Salut 👋, je suis Furia25</h1>
-<h3 align="center">Un passionné</h3>
+<h1 align="center">Hey 👋, I'm Furia25</h1>
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/dd07a020-899b-4810-b207-492ba37a39ab" style="width:1000px;height:150px"/>

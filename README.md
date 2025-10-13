@@ -43,8 +43,16 @@
 &nbsp;
 &nbsp;
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furia25&stats_format=bytes" alt="Top Langs" />
+</p>
+
+&nbsp;
+
 ---
 
+&nbsp;
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/0c33f268-ff44-46d8-bc70-72bde0ffdd72"/>
